@@ -1,4 +1,32 @@
+## 📸 Demonstração
+
+```bash
+Herói: 100/100 HP
+Goblin: 80/80 HP
+
+Seu turno:
+Escolha (atacar/defender):
+
 # 🎮 RPG de Batalha com IA (Python)
+
+
+👉 Isso mostra **como o projeto funciona sem precisar rodar**
+
+---
+
+## 🔹 Adicionar seção de aprendizado
+
+Inclua:
+
+```markdown
+## 📚 Aprendizados
+
+Durante esse projeto, desenvolvi:
+
+- Estruturação de código em múltiplos arquivos
+- Criação de lógica de combate
+- Implementação de IA simples baseada em decisão
+- Organização de projeto para portfólio
 
 Projeto desenvolvido com foco em prática de lógica de programação, estrutura de código e introdução à Inteligência Artificial aplicada a jogos.
 
