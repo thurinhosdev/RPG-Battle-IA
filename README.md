@@ -1,67 +1,75 @@
-## 📸 Demonstração
-
-```bash
-Herói: 100/100 HP
-Goblin: 80/80 HP
-
-Seu turno:
-Escolha (atacar/defender):
-
 # 🎮 RPG de Batalha com IA (Python)
-
-
-👉 Isso mostra **como o projeto funciona sem precisar rodar**
-
----
-
-## 🔹 Adicionar seção de aprendizado
-
-Inclua:
-
-```markdown
-## 📚 Aprendizados
-
-Durante esse projeto, desenvolvi:
-
-- Estruturação de código em múltiplos arquivos
-- Criação de lógica de combate
-- Implementação de IA simples baseada em decisão
-- Organização de projeto para portfólio
 
 Projeto desenvolvido com foco em prática de lógica de programação, estrutura de código e introdução à Inteligência Artificial aplicada a jogos.
 
-## 🚀 Funcionalidades
+---
 
-- Sistema de combate por turnos
-- Personagens com atributos (vida, ataque, defesa)
-- IA simples para tomada de decisão do inimigo
-- Sistema de defesa estratégica
-- Interface via terminal
+## 📸 Demonstração
 
-## 🧠 Conceitos aplicados
+```bash
+==============================
+Herói: 100/100 HP
+Goblin: 80/80 HP
+==============================
 
-- Programação orientada a objetos (POO)
-- Lógica de decisão (IA básica)
-- Estrutura modular de código
-- Simulação de sistema de jogo
+Seu turno:
+Escolha (atacar/defender): atacar
+Você causou 11 de dano!
 
-## 🛠️ Tecnologias utilizadas
+Turno do inimigo:
+Inimigo causou 7 de dano!
+🚀 Funcionalidades
+Sistema de combate por turnos
+Personagens com atributos (vida, ataque, defesa)
+IA simples para tomada de decisão do inimigo
+Sistema de defesa estratégica
+Reset de defesa por turno (evitando acúmulo infinito)
+Interface interativa via terminal
+🧠 Conceitos aplicados
+Programação orientada a objetos (POO)
+Lógica de decisão (IA básica)
+Estrutura modular de código
+Simulação de sistema de jogo
+Organização de projeto em múltiplos arquivos
+🛠️ Tecnologias utilizadas
+Python 3
+Git
+GitHub
+📚 Aprendizados
 
-- Python
-- Git e GitHub
+Durante esse projeto, desenvolvi:
 
-## 🎯 Objetivo
+Estruturação de código em múltiplos arquivos
+Criação de lógica de combate baseada em atributos
+Implementação de IA simples baseada em condições
+Separação de responsabilidades no código (modularização)
+Organização de projeto para portfólio profissional
+🎯 Objetivo
 
 Desenvolver habilidades práticas em programação e iniciar a construção de portfólio com projetos voltados para desenvolvimento de jogos e sistemas inteligentes.
 
-## 📌 Próximas melhorias
+📌 Próximas melhorias
+Sistema de habilidades (magias e ataques especiais)
+Sistema de experiência (XP e evolução)
+Interface gráfica utilizando Pygame
+IA mais avançada com decisões mais estratégicas
+▶️ Como executar
 
-- Sistema de habilidades (magias e ataques especiais)
-- Sistema de experiência (XP e evolução)
-- Interface gráfica (Pygame)
-- IA mais avançada
+Clone o repositório:
 
-## ▶️ Como executar
+git clone https://github.com/seuusuario/rpg-batalha-ia.git
 
-```bash
+Acesse a pasta:
+
+cd rpg-batalha-ia
+
+Execute o projeto:
+
 python main.py
+👨‍💻 Autor
+
+Desenvolvido por estudante de Engenharia da Computação em transição para a área de tecnologia, com foco em desenvolvimento de jogos e Inteligência Artificial.
+
+📢 Observação
+
+Este projeto faz parte da minha jornada prática de aprendizado em programação, com foco em evolução contínua e construção de soluções cada vez mais completas.
