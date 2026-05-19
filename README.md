@@ -19,8 +19,9 @@ Você causou 11 de dano!
 Turno do inimigo:
 Inimigo causou 7 de dano!
 
+---
 
-# 🚀 Funcionalidades
+🚀 Funcionalidades
 Sistema de combate por turnos
 Personagens com atributos (vida, ataque, defesa)
 IA simples para tomada de decisão do inimigo
@@ -59,7 +60,7 @@ IA mais avançada com decisões mais estratégicas
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/rpg-batalha-ia.git
+git clone (https://github.com/thurinhosdev/RPG-Battle-IA).git
 
 Acesse a pasta:
 
