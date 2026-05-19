@@ -18,7 +18,9 @@ Você causou 11 de dano!
 
 Turno do inimigo:
 Inimigo causou 7 de dano!
-🚀 Funcionalidades
+
+
+# 🚀 Funcionalidades
 Sistema de combate por turnos
 Personagens com atributos (vida, ataque, defesa)
 IA simples para tomada de decisão do inimigo
